@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="left">👋 Hello! I'm Dima</h2>
 
 [![telegram](https://img.shields.io/static/v1?style=flat-square&message=telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/dmitriyZhiganov)
 [![mail](https://img.shields.io/badge/gmail-c14438?style=flat-square&message=gmail&logo=Gmail&logoColor=white&link=mailto:dmatasoff@gmail.com)](mailto:delawere2008@gmail.com)
